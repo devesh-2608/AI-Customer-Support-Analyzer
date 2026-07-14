@@ -1,0 +1,23 @@
+REFUND POLICY
+We offer a full refund within 14 days of purchase for any subscription plan, no questions asked. To request a refund, go to Account Settings > Billing > Request Refund, or contact support with your invoice number. Refunds are processed within 5-7 business days back to the original payment method. After 14 days, refunds are only issued for confirmed billing errors, such as duplicate charges.
+
+SUBSCRIPTION PLANS
+We offer three plans: Free, Pro ($19/month), and Enterprise (custom pricing). The Free plan includes up to 100 support tickets per month and 1 team member. The Pro plan includes unlimited tickets, 5 team members, and API access. The Enterprise plan includes unlimited team members, dedicated account management, SSO/SAML login, and a 99.9% uptime SLA.
+
+PASSWORD RESET
+If you forgot your password, click "Forgot Password" on the login page and enter your registered email. A reset link will be sent within 2 minutes. If the email does not arrive, check your spam folder. Reset links expire after 30 minutes. If you still cannot log in, contact support with your account email for manual verification.
+
+API ACCESS AND RATE LIMITS
+API access is available on Pro and Enterprise plans. The default rate limit is 100 requests per minute on Pro and 1000 requests per minute on Enterprise. If you consistently hit rate limits, contact support to discuss a custom limit. API keys can be generated and revoked from Settings > Developer > API Keys.
+
+DATA EXPORT AND DELETION
+You can export all your data as CSV or JSON at any time from Settings > Data > Export. Account deletion requests are processed within 30 days and permanently remove all associated data, including ticket history and uploaded documents. This action cannot be undone.
+
+SUPPORT HOURS
+Standard support (Free and Pro plans) is available Monday-Friday, 9 AM - 6 PM IST, with a typical first response time of 24 hours. Enterprise customers get 24/7 priority support with a 1-hour first response SLA.
+
+TEAM MANAGEMENT
+Admins can add or remove team members from Settings > Team. Pro plan supports up to 5 members; additional seats can be purchased for $5/member/month. Enterprise plans have unlimited seats included.
+
+KNOWN ISSUES
+We are aware of an intermittent issue where the CSV export feature times out for accounts with more than 50,000 tickets. A fix is scheduled for the next release. In the meantime, use the JSON export or contact support for a manual data pull.
